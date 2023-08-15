@@ -3,10 +3,26 @@ h1{
     color:black;
 }
 body{
-    background-color:burlywood;
+    background-color:darkolivegreen;
     color:black;
 }
 h5{
+    background-color:grey;
+    color:black;
+}
+h2{
+    background-color:grey;
+    color:black;
+}
+h3{
+    background-color:grey;
+    color:black;
+}
+h4{
+    background-color:grey;
+    color:black
+}
+h6{
     background-color:grey;
     color:black;
 }
